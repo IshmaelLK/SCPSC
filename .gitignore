@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+/.venv/
+/native/build/
+/build/
+/runs/
+/outputs/
+/configs_local/
+/data/maps/
+/configs/
+/tests/fixtures/
